@@ -1,0 +1,126 @@
+{
+  "title": "Arthur Tovmasyan",
+  "pageID": 38603774,
+  "categories": [
+    "Living people",
+    "Politicians from the Republic of Artsakh",
+    "1962 births",
+    "People from Stepanakert"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Arthur Tovmasyan (Արթուր Թովմասյան; born 2 December 1962) is the President of the National Assembly of the internationally unrecognized Republic of Artsakh since 21 May 2020.",
+              "links": [
+                {
+                  "text": "President",
+                  "type": "internal",
+                  "page": "President of the National Assembly of Artsakh"
+                },
+                {
+                  "text": "National Assembly",
+                  "type": "internal",
+                  "page": "National Assembly (Artsakh)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Republic of Artsakh"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Arthur Tovmasyan"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "langcode": "DE",
+          "otherarticle": "Artur Tovmasjan",
+          "date": "September 2014",
+          "template": "expand language"
+        },
+        {
+          "df": "yes",
+          "year": "1962",
+          "month": "12",
+          "day": "02",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Arthur Tovmasyan\nԱրթուր Թովմասյան"
+          },
+          "birth_date": {
+            "text": "December 2, 1962"
+          },
+          "term_start": {
+            "text": "21 May 2020"
+          },
+          "birth_place": {
+            "text": "Stepanakert, Nagorno-Karabakh, Azerbaijan SSR, Soviet Union",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Stepanakert"
+              },
+              {
+                "text": "Nagorno-Karabakh",
+                "type": "internal",
+                "page": "Nagorno-Karabakh Autonomous Oblast"
+              },
+              {
+                "type": "internal",
+                "page": "Azerbaijan SSR"
+              },
+              {
+                "type": "internal",
+                "page": "Soviet Union"
+              }
+            ]
+          },
+          "office": {
+            "text": "President of the National Assembly of Artsakh",
+            "links": [
+              {
+                "type": "internal",
+                "page": "President of the National Assembly of Artsakh"
+              }
+            ]
+          },
+          "party": {
+            "text": "Free Motherland",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Free Motherland"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Ashot Ghulian",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ashot Ghulian"
+              }
+            ]
+          },
+          "image": {
+            "text": "Arthur Tovmasyan.jpg"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,665 @@
+{
+  "title": "Second Harutyunyan government",
+  "pageID": 64170671,
+  "categories": [
+    "European governments",
+    "Cabinets established in 2017",
+    "Executive branch of the government of the Republic of Artsakh"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The Second Harutyunyan government is the current governing body of Artsakh since its formation on 21 May 2020.",
+              "links": [
+                {
+                  "text": "governing body of Artsakh",
+                  "type": "internal",
+                  "page": "Government of Artsakh"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Second Harutyunyan government"
+                ]
+              }
+            },
+            {
+              "text": "Arayik Harutyunyan is the current President, who was elected in 2020 general election and is the head of state and head of government.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Arayik Harutyunyan"
+                },
+                {
+                  "text": "President",
+                  "type": "internal",
+                  "page": "President of Artsakh"
+                },
+                {
+                  "text": "2020 general election",
+                  "type": "internal",
+                  "page": "2020 Artsakhian general election"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "It is a minority government of Free Motherland - UCA Alliance with the support of United Motherland party.",
+              "links": [
+                {
+                  "text": "minority government",
+                  "type": "internal",
+                  "page": "minority government"
+                },
+                {
+                  "type": "internal",
+                  "page": "Free Motherland - UCA Alliance"
+                },
+                {
+                  "type": "internal",
+                  "page": "United Motherland"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "template": "date",
+          "data": {
+            "year": "2020",
+            "month": "05",
+            "date": "21",
+            "df": "y",
+            "template": "start date",
+            "text": "May 21, 2020"
+          }
+        }
+      ],
+      "infoboxes": [
+        {
+          "cabinet_name": {
+            "text": "Government of Arayik Harutyunyan"
+          },
+          "jurisdiction": {
+            "text": "Artsakh",
+            "links": [
+              {
+                "text": "Artsakh",
+                "type": "internal",
+                "page": "Republic of Artsakh"
+              }
+            ]
+          },
+          "flag": {
+            "text": "Flag of Artsakh.svg"
+          },
+          "image_size": {
+            "text": "200px"
+          },
+          "date_formed": {
+            "text": "May 21, 2020"
+          },
+          "government_head": {
+            "text": "Arayik Harutyunyan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Arayik Harutyunyan"
+              }
+            ]
+          },
+          "state_head": {
+            "text": "Arayik Harutyunyan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Arayik Harutyunyan"
+              }
+            ]
+          },
+          "current_number": {
+            "text": "12",
+            "number": 12
+          },
+          "political_parties": {
+            "text": "Free Motherland - UCA Alliance (Free Motherland, UCA Party)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Free Motherland - UCA Alliance"
+              },
+              {
+                "type": "internal",
+                "page": "Free Motherland"
+              },
+              {
+                "text": "UCA Party",
+                "type": "internal",
+                "page": "United Civic Alliance Party"
+              }
+            ]
+          },
+          "legislature_status": {
+            "text": "Minority with support from United Motherland",
+            "links": [
+              {
+                "text": "Minority",
+                "type": "internal",
+                "page": "Minority government"
+              },
+              {
+                "type": "internal",
+                "page": "United Motherland"
+              }
+            ],
+            "formatting": {
+              "italic": [
+                "with support from United Motherland"
+              ]
+            }
+          },
+          "opposition_parties": {
+            "text": "Justice Armenian Revolutionary Federation Democratic Party",
+            "links": [
+              {
+                "text": "Justice",
+                "type": "internal",
+                "page": "Justice (Artsakh)"
+              },
+              {
+                "type": "internal",
+                "page": "Armenian Revolutionary Federation"
+              },
+              {
+                "text": "Democratic Party",
+                "type": "internal",
+                "page": "Democratic Party of Artsakh"
+              }
+            ]
+          },
+          "election": {
+            "text": "2020 Artsakhian general election",
+            "links": [
+              {
+                "text": "2020 Artsakhian general election",
+                "type": "internal",
+                "page": "2020 Artsakhian general election"
+              }
+            ]
+          },
+          "previous": {
+            "text": "Sahakyan government",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sahakyan government"
+              }
+            ]
+          },
+          "cabinet_type": {
+            "text": "government"
+          }
+        }
+      ],
+      "references": [
+        {
+          "last": "LLC",
+          "first": "Helix Consulting",
+          "title": "Artsakh president Arayik Harutyunyan sign cooperation memorandum with Samvel Babayan - aysor.am - Hot news from Armenia",
+          "url": "https://www.aysor.am/en/news/2020/05/25/harutyunyan-babayan/1700286",
+          "access-date": "2020-06-04",
+          "website": "www.aysor.am",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Arminfo: Araik Harutyunyan and Samvel Babayan signed a memorandum of cooperation",
+          "url": "https://arminfo.info/full_news.php?id=52229&lang=3",
+          "access-date": "2020-06-04",
+          "website": "arminfo.info",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "May 30",
+          "first": "Craig-",
+          "last2": "Said",
+          "first2": "2020",
+          "date": "2020-05-29",
+          "title": "Artsakh President Appoints Rivals to Key Posts",
+          "url": "http://asbarez.com/194440/artsakh-president-appoints-rivals-to-key-posts/",
+          "access-date": "2020-06-04",
+          "website": "Asbarez.com",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Structure",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The structure of the government of Artsakh consists of twelve ministries and three other bodies."
+            },
+            {
+              "text": "Each ministry is responsible for elaborating and implementing governmental decisions in its respective sphere."
+            }
+          ]
+        }
+      ],
+      "tables": [
+        [
+          {
+            "Office": {
+              "text": "President",
+              "links": [
+                {
+                  "text": "President",
+                  "type": "internal",
+                  "page": "President of Artsakh"
+                }
+              ]
+            },
+            "Name": {
+              "text": "Arayik Harutyunyan",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Arayik Harutyunyan"
+                }
+              ]
+            },
+            "Party": {
+              "text": ""
+            },
+            "col4": {
+              "text": "Free Motherland",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Free Motherland"
+                }
+              ]
+            }
+          },
+          {
+            "Office": {
+              "text": "State Minister",
+              "links": [
+                {
+                  "text": "State Minister",
+                  "type": "internal",
+                  "page": "State Minister of Artsakh"
+                }
+              ]
+            },
+            "Name": {
+              "text": "Grigory Martirosyan",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Grigory Martirosyan"
+                }
+              ]
+            },
+            "Party": {
+              "text": ""
+            },
+            "col4": {
+              "text": "Independent"
+            }
+          },
+          {
+            "Office": {
+              "text": "Minister of Defence"
+            },
+            "Name": {
+              "text": "Jalal Harutyunyan",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jalal Harutyunyan"
+                }
+              ]
+            },
+            "Party": {
+              "text": ""
+            },
+            "col4": {
+              "text": "Independent"
+            }
+          },
+          {
+            "Office": {
+              "text": "Minister of Foreign Affairs"
+            },
+            "Name": {
+              "text": "Masis Mayilyan",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Masis Mayilyan"
+                }
+              ]
+            },
+            "Party": {
+              "text": ""
+            },
+            "col4": {
+              "text": "Independent"
+            }
+          },
+          {
+            "Office": {
+              "text": "Minister of Economy and Industrial Infrastructures"
+            },
+            "Name": {
+              "text": "Levon Grigoryan"
+            },
+            "Party": {
+              "text": ""
+            },
+            "col4": {
+              "text": "Independent"
+            }
+          },
+          {
+            "Office": {
+              "text": "Minister of Finance"
+            },
+            "Name": {
+              "text": "Vahram Baghdasaryan"
+            },
+            "Party": {
+              "text": ""
+            },
+            "col4": {
+              "text": "Free Motherland",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Free Motherland"
+                }
+              ]
+            }
+          },
+          {
+            "Office": {
+              "text": "Minister of Justice"
+            },
+            "Name": {
+              "text": "Ararat Danielyan"
+            },
+            "Party": {
+              "text": ""
+            },
+            "col4": {
+              "text": "Independent"
+            }
+          },
+          {
+            "Office": {
+              "text": "Minister of Education Science and Culture"
+            },
+            "Name": {
+              "text": "Lusine Gharakhanyan"
+            },
+            "Party": {
+              "text": ""
+            },
+            "col4": {
+              "text": "Independent"
+            }
+          },
+          {
+            "Office": {
+              "text": "Minister of Healthcare"
+            },
+            "Name": {
+              "text": "Arayik Baghryan"
+            },
+            "Party": {
+              "text": ""
+            },
+            "col4": {
+              "text": "Independent"
+            }
+          },
+          {
+            "Office": {
+              "text": "Minister of Agriculture"
+            },
+            "Name": {
+              "text": "Ashot Bakhshyan"
+            },
+            "Party": {
+              "text": ""
+            },
+            "col4": {
+              "text": "Independent"
+            }
+          },
+          {
+            "Office": {
+              "text": "Minister of Military Patriotic Upbringing, Youth, Sports and Tourism"
+            },
+            "Name": {
+              "text": "Samvel Shahramanyan"
+            },
+            "Party": {
+              "text": ""
+            },
+            "col4": {
+              "text": "Independent"
+            }
+          },
+          {
+            "Office": {
+              "text": "Minister of Labour, Social Affairs and Housing"
+            },
+            "Name": {
+              "text": "Samvel Avanesyan"
+            },
+            "Party": {
+              "text": ""
+            },
+            "col4": {
+              "text": "Independent"
+            }
+          },
+          {
+            "Office": {
+              "text": "Minister of Territorial Administration and Development"
+            },
+            "Name": {
+              "text": "Zhirayr Mirzoyan"
+            },
+            "Party": {
+              "text": ""
+            },
+            "col4": {
+              "text": "Independent"
+            }
+          },
+          {
+            "Office": {
+              "text": "Minister of Urban Planning"
+            },
+            "Name": {
+              "text": "Aram Sargsyan"
+            },
+            "Party": {
+              "text": ""
+            },
+            "col4": {
+              "text": "Free Motherland",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Free Motherland"
+                }
+              ]
+            }
+          },
+          {
+            "Office": {
+              "text": "Minister of Internal Affairs"
+            },
+            "Name": {
+              "text": "Karen Grigory Sargsyan",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Karen Grigory Sargsyan"
+                }
+              ]
+            },
+            "Party": {
+              "text": "Non-party"
+            },
+            "col4": {
+              "text": ""
+            }
+          }
+        ]
+      ],
+      "templates": [
+        {
+          "template": "politics of artsakh"
+        },
+        {
+          "list": [
+            "Free Motherland"
+          ],
+          "template": "party color"
+        },
+        {
+          "list": [
+            "Independent"
+          ],
+          "template": "party color"
+        },
+        {
+          "list": [
+            "Independent"
+          ],
+          "template": "party color"
+        },
+        {
+          "list": [
+            "Independent"
+          ],
+          "template": "party color"
+        },
+        {
+          "list": [
+            "Independent"
+          ],
+          "template": "party color"
+        },
+        {
+          "list": [
+            "Free Motherland"
+          ],
+          "template": "party color"
+        },
+        {
+          "list": [
+            "Independent"
+          ],
+          "template": "party color"
+        },
+        {
+          "list": [
+            "Independent"
+          ],
+          "template": "party color"
+        },
+        {
+          "list": [
+            "Independent"
+          ],
+          "template": "party color"
+        },
+        {
+          "list": [
+            "Independent"
+          ],
+          "template": "party color"
+        },
+        {
+          "list": [
+            "Independent"
+          ],
+          "template": "party color"
+        },
+        {
+          "list": [
+            "Independent"
+          ],
+          "template": "party color"
+        },
+        {
+          "list": [
+            "Independent"
+          ],
+          "template": "party color"
+        },
+        {
+          "list": [
+            "Free Motherland"
+          ],
+          "template": "party color"
+        }
+      ],
+      "references": [
+        {
+          "last": "LLC",
+          "first": "Helix Consulting",
+          "title": "Ministries - Government - Government of Artsakh Republic",
+          "url": "http://gov.nkr.am/en/ministries/",
+          "access-date": "2020-06-04",
+          "website": "gov.nkr.am",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "artsakh topics"
+        },
+        {
+          "list": [
+            "Cabinet of"
+          ],
+          "title": "National cabinets of Europe",
+          "template": "europe topic"
+        }
+      ]
+    }
+  ]
+}
