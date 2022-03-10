@@ -1,278 +1,33 @@
 {
-  "title": "Arayik Harutyunyan",
-  "pageID": 13280780,
-  "categories": [
-    "1972 births",
-    "Living people",
-    "People from Stepanakert",
-    "Armenian State University of Economics alumni",
-    "Armenian military personnel of the Nagorno-Karabakh War",
-    "Prime Ministers of the Republic of Artsakh",
-    "Presidents of the Republic of Artsakh"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Arayik Vladimiri Harutyunyan (Արայիկ Վլադիմիրի Հարությունյան; born 14 December 1973) is the incumbent President of Artsakh since 2020.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "President of Artsakh"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Arayik Vladimiri Harutyunyan"
-                ]
-              }
-            },
-            {
-              "text": "He was formerly the 1st State Minister from 2017 until his resignation in 2018 and 6th and last Prime Minister of the Republic of Artsakh from 2007 until the office of Prime Minister was abolished in 2017.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "State Minister"
-                },
-                {
-                  "text": "Prime Minister",
-                  "type": "internal",
-                  "page": "Prime Minister of the Nagorno-Karabakh Republic"
-                },
-                {
-                  "type": "internal",
-                  "page": "Republic of Artsakh"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Artsakh politician; President since 2020 (born 1973)",
-          "template": "short description"
-        },
-        {
-          "year": "1973",
-          "month": "12",
-          "day": "14",
-          "df": "yes",
-          "template": "birth date and age"
-        },
-        {
-          "list": [
-            "Army Artsakh.jpg"
-          ],
-          "template": "flagicon image"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Arayik Harutyunyan"
-          },
-          "native_name": {
-            "text": "Արայիկ Հարությունյան"
-          },
-          "image": {
-            "text": "Arayik Harutyunyan.png"
-          },
-          "office": {
-            "text": "4th President of Artsakh",
-            "links": [
-              {
-                "type": "internal",
-                "page": "President of Artsakh"
-              }
-            ]
-          },
-          "caption": {
-            "text": "Harutyunyan in 2020"
-          },
-          "term_start": {
-            "text": "21 May 2020"
-          },
-          "predecessor": {
-            "text": "Bako Sahakyan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bako Sahakyan"
-              }
-            ]
-          },
-          "office1": {
-            "text": "1st State Minister of Artsakh",
-            "links": [
-              {
-                "type": "internal",
-                "page": "State Minister of Artsakh"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "25 September 2017"
-          },
-          "term_end1": {
-            "text": "6 June 2018"
-          },
-          "predecessor1": {
-            "text": "Office created",
-            "formatting": {
-              "italic": [
-                "Office created"
-              ]
-            }
-          },
-          "successor1": {
-            "text": "Grigory Martirosyan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Grigory Martirosyan"
-              }
-            ]
-          },
-          "president1": {
-            "text": "Bako Sahakyan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bako Sahakyan"
-              }
-            ]
-          },
-          "order2": {
-            "text": "6th"
-          },
-          "office2": {
-            "text": "Prime Minister of the Nagorno-Karabakh Republic"
-          },
-          "term_start2": {
-            "text": "14 September 2007"
-          },
-          "term_end2": {
-            "text": "25 September 2017"
-          },
-          "predecessor2": {
-            "text": "Anushavan Danielyan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Anushavan Danielyan"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Office abolished",
-            "formatting": {
-              "italic": [
-                "Office abolished"
-              ]
-            }
-          },
-          "president2": {
-            "text": "Bako Sahakyan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bako Sahakyan"
-              }
-            ]
-          },
-          "party": {
-            "text": "Free Motherland",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Free Motherland"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "December 14, 1973"
-          },
-          "birth_place": {
-            "text": "Stepanakert, Nagorno-Karabakh Autonomous Oblast, Azerbaijan SSR, Soviet Union",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Stepanakert"
-              },
-              {
-                "type": "internal",
-                "page": "Nagorno-Karabakh Autonomous Oblast"
-              },
-              {
-                "type": "internal",
-                "page": "Azerbaijan SSR"
-              },
-              {
-                "type": "internal",
-                "page": "Soviet Union"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Yerevan State Institute of Economy\nArtsakh University",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Yerevan State Institute of Economy"
-              },
-              {
-                "type": "internal",
-                "page": "Artsakh University"
-              }
-            ]
-          },
-          "occupation": {
-            "text": "Economist"
-          },
-          "allegiance": {
-            "text": "Nagorno-Karabakh Republic",
-            "links": [
-              {
-                "text": "Nagorno-Karabakh Republic",
-                "type": "internal",
-                "page": "undefined"
-              }
-            ]
-          },
-          "branch": {
-            "text": "Artsakh Defense Army",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Artsakh Defense Army"
-              }
-            ]
-          },
-          "serviceyears": {
-            "text": "1992–1994"
-          },
-          "battles": {
-            "text": "First Nagorno-Karabakh War",
-            "links": [
-              {
-                "type": "internal",
-                "page": "First Nagorno-Karabakh War"
-              }
-            ]
-          },
-          "children": {
-            "text": "Three daughters"
-          },
-          "spouse": {
-            "text": "Kristina Harutyunyan"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Arayik Harutyunyan",
+  "native_name": "Արայիկ Հարությունյան",
+  "image": "Arayik harutyunyan.jpg",
+  "office": "4th President of Artsakh",
+  "caption": "Harutyunyan in 2021",
+  "term_start": "21 May 2020",
+  "predecessor": "Bako Sahakyan",
+  "office1": "1st State Minister of Artsakh",
+  "term_start1": "25 September 2017",
+  "term_end1": "6 June 2018",
+  "predecessor1": "Office created",
+  "successor1": "Grigory Martirosyan",
+  "president1": "Bako Sahakyan",
+  "order2": "6th",
+  "office2": "Prime Minister of the Nagorno-Karabakh Republic",
+  "term_start2": "14 September 2007",
+  "term_end2": "25 September 2017",
+  "predecessor2": "Anushavan Danielyan",
+  "successor2": "Office abolished",
+  "president2": "Bako Sahakyan",
+  "party": "Free Motherland",
+  "birth_date": "December 14, 1973",
+  "birth_place": "Stepanakert, Nagorno-Karabakh Autonomous Oblast, Azerbaijan SSR, Soviet Union",
+  "alma_mater": "Yerevan State Institute of Economy\nArtsakh University",
+  "occupation": "Economist",
+  "allegiance": "Nagorno-Karabakh Republic",
+  "branch": "Artsakh Defense Army",
+  "serviceyears": "1992–1994",
+  "battles": "First Nagorno-Karabakh War",
+  "children": "Three daughters",
+  "spouse": "Kristina Harutyunyan"
 }
