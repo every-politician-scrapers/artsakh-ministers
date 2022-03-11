@@ -13,10 +13,6 @@ class OfficeholderList < OfficeholderListBase
     'Portrait'
   end
 
-  def table_number
-    'position()<=2'
-  end
-
   class Officeholder < OfficeholderBase
     def columns
       %w[no img name start end].freeze
