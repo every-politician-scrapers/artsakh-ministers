@@ -1,0 +1,62 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Prime Minister of the Nagorno-Karabakh Republic"
+    },
+    "P1545": "6",
+    "P580": "2007-09-14",
+    "P1365": {
+      "links": [
+        "Anushavan Danielyan"
+      ],
+      "stated_as": "Anushavan Danielyan"
+    },
+    "P582": "2017-09-25",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Office abolished"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "State Minister of Artsakh"
+      ],
+      "stated_as": "1st State Minister of Artsakh"
+    },
+    "P580": "2017-09-25",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Office created"
+    },
+    "P582": "2018-06-06",
+    "P1366": {
+      "links": [
+        "Grigory Martirosyan"
+      ],
+      "stated_as": "Grigory Martirosyan"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President of Artsakh"
+      ],
+      "stated_as": "4th President of Artsakh"
+    },
+    "P580": "2020-05-21",
+    "P1365": {
+      "links": [
+        "Bako Sahakyan"
+      ],
+      "stated_as": "Bako Sahakyan"
+    }
+  }
+]
